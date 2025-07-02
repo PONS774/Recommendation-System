@@ -73,7 +73,8 @@ Recommendations are made using cosine similarity. For each movie, tags are creat
 ---
 ## Screenshot
 
-![Home Page]("Screenshots/Home page.png")
+![Home Page](./Screenshots/Home%20page.png)
+
 
 ---
 
